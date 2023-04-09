@@ -26,7 +26,7 @@ const exp = [
     desp: "<li>Built and contributed cross-platform applications using react native.</li><li>Developed software applications, performed unit testing, communicated status and integrated software into a larger system.</li><li>Reviewed software designs and implementation to improve development process.</li>", 
   },
 ];
-a
+
 const showCards2 = () => {
   let output = "";
   exp.forEach(
