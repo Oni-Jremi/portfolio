@@ -6,14 +6,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Data Scientist",
-    cardImage: "assets/images/experience-page/resolytics.jpg",
+    cardImage: "assets/images/experience-page/resolytics.png",
     place: "Resolytics",
     time: "(May, 2021 - April, 2022)",
     desp: "<li>Collaborated with cross-functional teams; software engineers, product managers and data analysts, to develop new products and services and solve complex problems.</li> <li>Developed and XGBoost model of 2M+ rows of data, aiming to boost a client's user platform activeness</li> <li>Managed the databases and function updating for an audience measurement platform.</li>",
   },
   {
     title: "Machine Learning Engineer ",
-    cardImage: "assets/images/experience-page/smartflow.jpg",
+    cardImage: "assets/images/experience-page/smartflow.png",
     place: "Smartflow",
     time: "(Oct, 2020 - April, 2021)",
     desp: "<li>Analyzed large datasets using TensorFlow to extract meaningful insights and identify opportunities for improvements.</li><li>Designed algorithms and implemented new machine learning algorithms to solve specific problems and improve performance.</li><li>Designed and implemented SVM and Decision Trees, from prototype to production-level code.</li>",
