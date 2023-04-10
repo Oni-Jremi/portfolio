@@ -11,7 +11,7 @@ const projects = [
     description: "Sentiment analysis on Tweets about USA presidential election 3 using classification models.",
     tagimg: "",
     Previewlink: "",
-    Githublink: "https://github.com/Oni-Jremi/ds_personal-projects",
+    Githublink: "https://github.com/Oni-Jremi/data_science_personal-projects",
   },
   {
     title: "ANN on Diabetes Data | Artificial Neural Network on Diabetes Data",
@@ -19,7 +19,7 @@ const projects = [
     description: "Artificial Neural Network on Diabetes Data.",
     tagimg: "",
     Previewlink: "",
-    Githublink: "https://github.com/Oni-Jremi/ds_personal-projects",
+    Githublink: "https://github.com/Oni-Jremi/data_science_personal-projects",
   },
   {
     title: "ALX Project on Monty | Using Brainfuck and MATLAB",
