@@ -11,7 +11,23 @@ const projects = [
     description: "Sentiment analysis on Tweets about USA presidential election 3 using classification models.",
     tagimg: "",
     Previewlink: "",
-    Githublink: "###",
+    Githublink: "https://github.com/Oni-Jremi/ds_personal-projects",
+  },
+  {
+    title: "ANN on Diabetes Data",
+    cardImage: "assets/images/project-page/sentimentanalysis.png",
+    description: "Artificial Neural Network on Diabetes Data.",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "https://github.com/Oni-Jremi/ds_personal-projects",
+  },
+  {
+    title: "ALX Project on Monty",
+    cardImage: "assets/images/project-page/brainfuck.png",
+    description: "Wrote over 18 programs in C using Brainfuck and MATLAB",
+    tagimg:  "",
+    Previewlink: "",
+    Githublink: "https://github.com/Oni-Jremi/monty",
   },
   {
     title: "Electricity Demand Predictor",
@@ -34,14 +50,7 @@ const projects = [
     tagimg: "",
 
   },
-  {
-    title: "ALX Project on Monty",
-    cardImage: "assets/images/project-page/brainfuck.png",
-    description: "Wrote over 18 programs in C using Brainfuck and MATLAB",
-    tagimg:  "",
-    Previewlink: "",
-    Githublink: "https://github.com/Oni-Jremi/monty",
-  },
+
   
 ];
 
