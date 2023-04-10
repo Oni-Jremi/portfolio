@@ -20,7 +20,7 @@ const exp = [
   },
   {
     title: "Software Engineer Intern",
-    cardImage: "assets/images/experience-page/bingbot.jpg",
+    cardImage: "assets/images/experience-page/bingbot.png",
     place: "BingBot",
     time: "(May, 2020 - Aug, 2020)",
     desp: "<li>Built and contributed cross-platform applications using react native.</li><li>Developed software applications, performed unit testing, communicated status and integrated software into a larger system.</li><li>Reviewed software designs and implementation to improve development process.</li>", 
