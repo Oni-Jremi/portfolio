@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "ANN on Diabetes Data",
-    cardImage: "assets/images/project-page/sentimentanalysis.png",
+    cardImage: "assets/images/project-page/sentiment-analysys-brandmentions.png",
     description: "Artificial Neural Network on Diabetes Data.",
     tagimg: "",
     Previewlink: "",
