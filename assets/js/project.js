@@ -34,24 +34,18 @@ const projects = [
     cardImage: "assets/images/project-page/energy-consumption.png",
     description: "Predictive modelling of electricity demand using polynomial regression model.",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
   },
   {
     title: "Amazon Sentiment Analysis | Comparing VADAR and TextBlob",
     cardImage: "assets/images/project-page/amazon-dark-logo-png-transparent.png",
     description: "Sentiment Analysis on Amazon reviews comparing VADAR and TextBlob",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
   },
   {
     title: "Data Quality Framework | Using time series forecasting model",
     cardImage: "assets/images/project-page/DQ.png",
     description: "Built a data quality framework using time series forecasting model.",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
   },
 
   
